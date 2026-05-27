@@ -1,5 +1,5 @@
 # Eduford University Website
-![Calculator Preview](worldBigUniversity.)
+![university Preview](worldBigUniversity.)
 
 A responsive university website project built using HTML and CSS.  
 This project contains multiple pages including Home, About, Courses, Blog, and Contact sections with a modern UI design.
